@@ -1,7 +1,7 @@
 
 **Stack:**
 
-- ReactJS (useState, useReducer, useEffect)
+- ReactJS (useState, useEffect)
 - React Router
 - Axios
 - classnames
